@@ -7,7 +7,7 @@ For quite a while I ran Adafruit's Gutenbird sketch, which printed in real time 
 
 I recently began to consider how to repurpose this neat little printer (and use 50 rolls of thermal paper). A few ideas came to mind, but I finally settled on using it as a quotation printer. QuotationsPage.com is a terrific site that holds a collection of tens of thousands of interesting quotations on all manner of subjects from all manner of sources. The sketch included here randomly picks one of the quotations on that site and prints it to the printer at a random interval of between two and four hours. I find that making the interval longer gives me a greater opportunity to consider each quotation before the next one comes along. It also avoids putting an undue burden on the QuotationsPage servers.
 
-Feel free to take this sketch and work with it as you will. If you create your own version, I only ask that you give appropriate credit to this project and, if your version collects data from QuotationsPage.com, to that site. 
+Feel free to take this sketch and work with it as you will. If you create your own version, I only ask that you kindly give appropriate credit to this project and, if your version collects data from QuotationsPage.com, to that site. 
 
 A work in progress. I continue to tinker with various aspects of the program as time permits and may post modified versions at some point.
 
